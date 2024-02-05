@@ -20,3 +20,9 @@ console.log(kmiHinnang(kehamassiIndeks(152, 60)));
 let kmiArvud:number[]=[25, 18, 38, 28];
 let hinnangud=kmiArvud.map(kmiHinnang);
 console.log(hinnangud);
+
+/*
+25.97
+Ülekaal
+[ 'Ülekaal', 'Alakaal', 'Tugev rasvumine', 'Ülekaal' ]
+*/
