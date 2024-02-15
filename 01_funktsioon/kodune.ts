@@ -18,7 +18,7 @@ function plaadid(plaat:number, vuuk:number, laius:number, pikkus:number):number{
     return plaadid_kokku;
 }
 
-console.log(plaadid(19.5, 3, 4, 6));
+console.log(plaadid(19.5, 3, 0.4, 0.6));
 
 //väljatrükk
 
